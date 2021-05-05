@@ -55,7 +55,7 @@
 }
 .content-section .content h3 {
   margin-top: 20px;
-  color: #5d5d5d;
+  color: black;
   font-size: 21px;
 }
 .content-section .content p {
@@ -66,40 +66,15 @@
 }
 .content-section1 .content h3 {
   margin-top: 20px;
-  color: #5d5d5d;
+  color: black;
   font-size: 21px;
 }
 .content-section1 .content p {
   margin-top: 10px;
+  color: black;
   font-size: 18px;
   line-height: 1.5;
 }
-/* .content-section .content .button{
-    margin-top: 30px;
-}
-.content-section .content .button a{
-    background-color: #3d3d3d;
-    padding:12px 40px;
-    text-decoration: none;
-    color: #fff;
-    font-size: 25px;
-    letter-spacing: 1.5px;
-}
-.content-section .content .button a:hover{
-    background-color: #a52a2a;
-    color: #fff;
-} */
-/* .content-section .social{
-    margin: 40px 40px;
-}
-.content-section .social i{
-    color: #a52a2a;
-    font-size: 30px;
-    padding: 0px 10px;
-}
-.content-section .social i:hover{
-    color: #3d3d3d;
-} */
 
 @media screen and (max-width: 768px) {
   .container {
